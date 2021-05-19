@@ -1,7 +1,7 @@
 name: "Jim Thomas"
 description: "The Personal Homepage for Jim Thomas"
 
-url: "http://jthomas.com"
+url: "http://jimthomas.edu.com"
 
 gems: [jekyll-paginate]
 paginate: 5
